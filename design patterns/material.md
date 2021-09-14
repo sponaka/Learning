@@ -36,7 +36,7 @@ A car has a battery (a battery is part of a car).
 A person has a heart  (a heart is part of a person).
 A house has a living room (a living room is part of a house).
 
-Diamond Problem in Java:
+**Diamond Problem in Java:**
 
 ![image](https://cdn.journaldev.com/wp-content/uploads/2013/07/diamond-problem-multiple-inheritance.png)
 
