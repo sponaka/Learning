@@ -41,3 +41,5 @@ A house has a living room (a living room is part of a house).
 ![image](https://cdn.journaldev.com/wp-content/uploads/2013/07/diamond-problem-multiple-inheritance.png)
 
 
+This leads to the ambiguity as the compiler doesn’t know which superclass method to execute. Because of the diamond-shaped class diagram, it’s referred to as Diamond Problem in java. The diamond problem in Java is the main reason java doesn’t support multiple inheritances in classes.
+
