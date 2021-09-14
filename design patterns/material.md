@@ -38,6 +38,6 @@ A house has a living room (a living room is part of a house).
 
 Diamond Problem in Java:
 
-https://cdn.journaldev.com/wp-content/uploads/2013/07/diamond-problem-multiple-inheritance.png
+![image](https://cdn.journaldev.com/wp-content/uploads/2013/07/diamond-problem-multiple-inheritance.png)
 
 
