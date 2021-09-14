@@ -20,7 +20,7 @@ https://kentcdodds.com/blog/inversion-of-control
 
  ## Java Patterns :
 
-1. Inheritance versus composition: How to choose
+**Inheritance versus composition: How to choose**
 
 
 In object-oriented programming, we can use inheritance when we know there is an "is a" relationship between a child and its parent class. Some examples would be:
