@@ -35,3 +35,9 @@ In object-oriented programming, we can use composition in cases where one object
 A car has a battery (a battery is part of a car).
 A person has a heart  (a heart is part of a person).
 A house has a living room (a living room is part of a house).
+
+Diamond Problem in Java:
+
+https://cdn.journaldev.com/wp-content/uploads/2013/07/diamond-problem-multiple-inheritance.png
+
+
