@@ -18,3 +18,20 @@ https://kentcdodds.com/blog/inversion-of-control
 
 
 
+<!-- Java Patterns : -->
+
+1. Inheritance versus composition: How to choose
+
+
+In object-oriented programming, we can use inheritance when we know there is an "is a" relationship between a child and its parent class. Some examples would be:
+
+A person is a human.
+A cat is an animal.
+A car is a  vehicle.
+
+
+In object-oriented programming, we can use composition in cases where one object "has" (or is part of) another object. Some examples would be:
+
+A car has a battery (a battery is part of a car).
+A person has a heart  (a heart is part of a person).
+A house has a living room (a living room is part of a house).
