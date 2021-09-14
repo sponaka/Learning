@@ -18,7 +18,7 @@ https://kentcdodds.com/blog/inversion-of-control
 
 
 
-<!-- Java Patterns : -->
+ ## Java Patterns :
 
 1. Inheritance versus composition: How to choose
 
