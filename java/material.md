@@ -55,3 +55,12 @@ Before Java 8, if a new method was introduced in an interface, all the implement
 **Lambda Expression**
 
 Reduced Lines of Code
+
+**Java Inner Classes (Nested Classes)**
+
+Sometimes users need to program a class in such a way so that no other class can access it. Therefore, it would be better if you include it within other classes.
+
+We use inner classes to logically group classes and interfaces in one place to be more readable and maintainable.
+
+Nested classes represent a particular type of relationship that is it can access all the members (data members and methods) of the outer class, including private.
+
