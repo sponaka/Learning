@@ -64,3 +64,6 @@ We use inner classes to logically group classes and interfaces in one place to b
 
 Nested classes represent a particular type of relationship that is it can access all the members (data members and methods) of the outer class, including private.
 
+https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared#the_modular_monolith
+
+
