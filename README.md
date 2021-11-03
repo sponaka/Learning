@@ -3,15 +3,15 @@ Complete learning material
 
 Backend : 
 
-0:00 Intro
-3:30 Communication Protocols
-8:40 Web Servers
-11:00 Database Engineering
-13:31 Proxies
-15:40 Caching
-18:30 Web Frameworks Runtime
-19:24 Message Formats 
-20:50 Security
+ - 0:00 Intro
+ - 3:30 Communication Protocols
+ - 8:40 Web Servers
+ - 11:00 Database Engineering
+ - 13:31 Proxies
+ - 15:40 Caching
+ - 18:30 Web Frameworks Runtime
+ - 19:24 Message Formats 
+ - 20:50 Security
 
 Frontend dedicated Channels recommended in this video at minute 7, @Ben Awad @Traversy Media @Web Dev Simplified 
 Details 
